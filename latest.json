@@ -1,0 +1,10 @@
+{
+  "versionCode": 42,
+  "versionName": "0.9.23",
+  "notes": [
+    "图标换成和 app 一样的暖石灰"
+  ],
+  "apk": "pulse.apk",
+  "size": 19388443,
+  "sha256": "6acec750a9c9b9c5ac21a2b853a76f0a96469c362a187b313cac95e8f96d2686"
+}
